@@ -2,7 +2,7 @@
 
 ### 🐈‍⬛ About me
 
-- 🐅 I’m SeungYeon
+- 🐯 I’m SeungYeon
 - 🐾 I'm student at Dongduk Women’s University, majoring in Computer Science
 - 📫 How to reach me → [dbtmddus1224@gmail.com](mailto:dbtmddus1224@gmail.com)
 
