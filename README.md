@@ -17,7 +17,6 @@
 ![ddyearn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddyearn&show_icons=true)
 
 ### 🔭 I’m currently working on
-🐾Crawling E-commerce Data with Python  
 🐾Spring MVC Project 'Jummechoo'
 
 ### 🌱 I’m currently learning
