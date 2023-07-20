@@ -18,7 +18,7 @@
 -->
 
 ### 🔭 I’m currently working on
-🐾Spring MVC Project 'Jummechoo'
+🐾Spring MVC Project 'FrogBanchan'
 
 ### 🌱 I’m currently learning
 🐾Spring framework  
