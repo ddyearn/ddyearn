@@ -18,7 +18,8 @@
 -->
 
 ### 🔭 I’m currently working on
-🐾Spring MVC Project 'FrogBanchan'
+🐾Android APP 'Advent Calendar for Present'
+🐾Spring MVC 'Climate Closet'
 
 ### 🌱 I’m currently learning
 🐾Spring framework  
