@@ -18,7 +18,7 @@
 -->
 
 ### 🔭 I’m currently working on
-🐾Android APP 'Advent Calendar for Present'  
+🐾Android APP 'D-Light Calendar'  
 🐾Spring MVC 'Climate Closet'
 
 ### 🌱 I’m currently learning
