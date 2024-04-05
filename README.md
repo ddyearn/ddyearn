@@ -3,7 +3,7 @@
 ### 🐈‍⬛ About me
 
 - 🐯 I’m SeungYeon
-- 🐾 I'm student at Dongduk Women’s University, majoring in Computer Science
+- 🏫 Graduated from Dongduk Women's University, Department of Computer Science
 - 📫 How to reach me → [dbtmddus1224@gmail.com](mailto:dbtmddus1224@gmail.com)
 
 ### ⚡Skills
@@ -19,7 +19,7 @@
 
 ### 🔭 I’m currently working on
 🐾Android APP 'D-Light Calendar'  
-🐾Spring MVC 'Climate Closet'
+🐾Spring MVC 'Comfy Look Idea Mate'
 
 ### 🌱 I’m currently learning
 🐾Spring framework  
