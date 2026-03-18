@@ -23,10 +23,12 @@
 ### 🔭 I’m currently working on
 🐾Light Rail Transit ATS Development  
 🐾Tram MMi Dashboard Development  
+🐾Axle Bearing Monitoring DMI Dashboard Development  
   
 ### 🌱 I’m currently learning
 🐾Qt framework  
 🐾Arduino  
+🐾HAL  
 
 <!--
 **ddyearn/ddyearn** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
